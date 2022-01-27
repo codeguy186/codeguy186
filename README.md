@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codeguy186
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning and Deep learning
-- 💞️ I’m looking to collaborate on basic ML projects
+- 👋 Hi, I’m Niranjan.
+- 👀 I’m interested in anything AI related.
+- 🌱 I’m currently learning Machine learning and Deep learning.
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me niranjansnair18@gmail.com
 
 <!---
